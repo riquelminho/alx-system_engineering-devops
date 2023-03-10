@@ -1,2 +1,2 @@
-chmod u+x *
-chow -hR vincent:staff .
+#!/bin/bash
+chown -hR vincent:staff .
