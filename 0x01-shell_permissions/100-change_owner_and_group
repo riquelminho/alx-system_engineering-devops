@@ -1,0 +1,2 @@
+chmod u+x *
+chow -hR vincent:staff .
